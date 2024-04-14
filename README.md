@@ -44,4 +44,6 @@ Home,About Us,Contact Us,…] this action will lead to a custom navigation bar.
      -  Run the `Delete_component.py` script.
      -	Follow the prompts to select the component to delete.
      -  The script will remove the selected component folder from `src/components`.
+
+  Note: Refer to `Web-kit.docx` for documentation
  
